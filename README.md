@@ -1,6 +1,6 @@
 # Turbin3 Q3 cohort builder projects 
-#1. Typescript and Rust solution for prerequisites Test: Enrollment dApp  
-    [Related repo: prerequisites test ts and rust solution ](https://github.com/tenrikut/Q3_2025_Builders_Qualifier)
+
+# 1. Typescript and Rust solution for prerequisites Test: Enrollment dApp [Related repo: prerequisites test ts and rust solution ](https://github.com/tenrikut/Q3_2025_Builders_Qualifier)
 ### 📁 `airdrop-ts/` - TypeScript Implementation
 
 A comprehensive TypeScript project using `@solana/web3.js` and `@coral-xyz/anchor` for Solana blockchain interactions.
