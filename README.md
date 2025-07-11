@@ -16,5 +16,5 @@ Solana vault program built with the Anchor framework.This program allows users t
 
 # 4. [Q3-25-Anchor-Escrow](https://github.com/tenrikut/Q3-25-Anchor-Escrow)
 A Solana smart contract (program) for creating and managing token escrows, built with Anchor. This project demonstrates a minimal, production-ready escrow flow with full test coverage.
-# 5. [Q3-25-Anchor-Amm] (https://github.com/tenrikut/Q3-25-Anchor-Amm)
+# 5. [Q3-25-Anchor-Amm](https://github.com/tenrikut/Q3-25-Anchor-Amm)
 This project implements a minimal yet robust AMM smart contract on Solana using the Anchor framework. It supports pool creation, liquidity provision, LP token minting, and slippage protection. The codebase is designed for extensibility and security, following best practices for Solana programs.
