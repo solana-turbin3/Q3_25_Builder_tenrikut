@@ -1,6 +1,6 @@
 # Turbin3 Q3 cohort builder projects 
 
-# 1.  [ Q3-25: solution for prerequisites Test ](https://github.com/tenrikut/Q3_2025_Builders_Qualifier):Enrollment dApp
+# 1.  [ Q3-25: solution for prerequisites Test ](https://github.com/tenrikut/Q3_2025_Builders_Qualifier):Enrollment
 ### 📁 `airdrop-ts/` - TypeScript Implementation
 
 A comprehensive TypeScript project using `@solana/web3.js` and `@coral-xyz/anchor` for Solana blockchain interactions.
@@ -13,3 +13,7 @@ This is a TypeScript-based starter project for creating, minting, and managing S
 
 # 3. [ Q3-25-Anchor-Vault ](https://github.com/tenrikut/Q3-25-Anchor-Vault)
 Solana vault program built with the Anchor framework.This program allows users to open a vault, manage SOL deposits and withdrawals, and close the vault to retrieve any rent held.
+
+# 4. [Q3-25-Anchor-Escrow](https://github.com/tenrikut/Q3-25-Anchor-Escrow)
+A Solana smart contract (program) for creating and managing token escrows, built with Anchor. This project demonstrates a minimal, production-ready escrow flow with full test coverage.
+
