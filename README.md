@@ -18,3 +18,8 @@ Solana vault program built with the Anchor framework.This program allows users t
 A Solana smart contract (program) for creating and managing token escrows, built with Anchor. This project demonstrates a minimal, production-ready escrow flow with full test coverage.
 # 5. [Q3-25-Anchor-Amm](https://github.com/tenrikut/Q3-25-Anchor-Amm)
 This project implements a minimal yet robust AMM smart contract on Solana using the Anchor framework. It supports pool creation, liquidity provision, LP token minting, and slippage protection. The codebase is designed for extensibility and security, following best practices for Solana programs.
+# 6. [Q3-25-NFT-Marketplace] (https://github.com/tenrikut/Q3-25-NFT-Marketplace)
+A decentralized NFT marketplace built on Solana. It enables users to initialize trading venues, list NFTs in secure escrow vaults, delist items to retrieve them, and purchase listed NFTs with automatic fee distribution to a configurable treasury.
+
+# 7. [Q3-25-Dice](https://github.com/tenrikut/Q3-25-Dice)
+A provably fair dice betting game built on Solana using the Anchor framework. Players can place bets predicting dice roll outcomes (2-96 range) with payouts calculated using a constant house edge system.
