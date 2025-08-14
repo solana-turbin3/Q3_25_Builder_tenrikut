@@ -1,5 +1,10 @@
 # Turbin3 Q3 cohort builder projects 
 
+
+# [Q3-25-Capstone-Project ](https://github.com/tenrikut/SodapV2.0)
+SoDapV2.0 is a decentralized in-store shopping platform on Solana with built-in Buy Now, Pay Later (BNPL), a transparent loyalty system, and verifiable refunds. Payments run through on-chain escrow for security and instant settlement, while BNPL and loyalty logic are enforced on-chain for consistency and fairness.
+- alls tests passed
+- deployed on devnet
 # 1.  [ Q3-25-Enrollment](https://github.com/tenrikut/Q3_2025_Builders_Qualifier)
 ### 📁 `airdrop-ts/` - TypeScript Implementation
 
